@@ -18,7 +18,7 @@ public class Main {
                 new Movie("Форрест Гамп", 1994, 18),
                 new Movie("Матрица", 1999, 16),
                 new Movie("Бойцовский клуб", 1999, 18),
-                 new Movie("gfd", 1999, 0),
+                new Movie("", 0, 756765),
         };
     }
 
